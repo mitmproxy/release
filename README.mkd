@@ -1,2 +1,2 @@
-##### :warning: pathod has been integrated into the main mitmproxy [repository](https://github.com/mitmproxy/mitmproxy).
+##### :warning: This repo has been integrated into the main mitmproxy [repository](https://github.com/mitmproxy/mitmproxy).
 This repository is not updated anymore.
